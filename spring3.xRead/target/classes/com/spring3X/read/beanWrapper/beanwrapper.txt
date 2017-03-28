@@ -1,0 +1,1 @@
+ 详细见 spring 3.x 入门   5.2 beanwrapper  章节

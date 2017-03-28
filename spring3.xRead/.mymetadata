@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="spring3.xRead"
+  id="myeclipse.1488511540910"
+  context-root="/ROOT"
+  j2ee-spec="6.0"
+  archive="spring3.xRead.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
